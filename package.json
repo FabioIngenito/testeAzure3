@@ -1,0 +1,12 @@
+{
+  "name": "escola-de-programacao",
+  "version": "1.0.0",
+  "description": "Site básico de uma escola de programação usando Node, Express e Bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

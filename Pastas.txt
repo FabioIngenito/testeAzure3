@@ -1,0 +1,20 @@
+Criar uma aplicação básica usando NODE e JS e EXPRESS 
+simulando um site de uma escola de programação, use o 
+Bootstrap para estilizar as páginas gere pelo menos 3 
+links. Crie um pacote completo para fazer download.
+
+
+escola-programacao/
+│
+├─ package.json
+├─ app.js
+│
+├─ public/
+│  └─ css/
+│     └─ style.css
+│
+└─ views/
+   ├─ index.html
+   ├─ sobre.html
+   ├─ cursos.html
+   └─ contato.html
